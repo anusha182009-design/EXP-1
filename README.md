@@ -55,7 +55,7 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 ### A. KVL circuit diagram
 
 *[ Insert the KVL circuit diagram here ]*
-<img width="718" height="1599" alt="KVL DRAW" src="https://github.com/user-attachments/assets/0dcf3be1-d9e2-41e9-b80a-ece38f671831" />
+<img width="718" height="836" alt="KVL Draw" src="https://github.com/user-attachments/assets/7245d97b-ab35-4d30-861b-901aa519974a" />
 
 
 **Figure 1:** KVL verification circuit
@@ -63,7 +63,7 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 ### B. KCL circuit diagram
 
 *[ Insert the KCL circuit diagram here ]*
-<img width="718" height="1600" alt="KCL DRAW" src="https://github.com/user-attachments/assets/d3448313-a43f-4172-907c-a52983cae033" />
+<img width="718" height="857" alt="KCL Draw" src="https://github.com/user-attachments/assets/9c0d35a6-f92a-4559-b88b-fece328a2bf9" />
 
 
 **Figure 2:** KCL verification circuit
