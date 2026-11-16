@@ -83,6 +83,8 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 ### B. KCL simulation
 
 *[ Paste the Proteus KCL simulation screenshot here ]*
+![Uploading Screenshot 2026-11-16 210809.png…]()
+
 
 **Figure 4:** Proteus simulation of KCL circuit
 
@@ -97,7 +99,7 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 ### B. KCL – Current measurements
 
-| S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | I1 + I2 + I3 (A) |
+| S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Theoritical |-1.48A |1.85A |0.56A |52.63A |
 | Practical | 1.58A | 0.05A | 0.53A | 52.6A |
